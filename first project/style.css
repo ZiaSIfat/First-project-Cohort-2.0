@@ -9,3 +9,17 @@ html,body{
     width: 100%;
 }
 
+body{
+    background-color: aliceblue;
+}
+
+.head-div{
+    background-color: rgb(3, 9, 40);
+    color: whitesmoke;
+    text-align: center;
+    padding: 50px;
+
+}
+#heading{
+    padding: 20px;
+}
