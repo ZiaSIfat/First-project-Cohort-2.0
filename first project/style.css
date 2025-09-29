@@ -15,7 +15,7 @@ body{
 
 
 .head-div{
-    background-color: rgb(3, 9, 40);
+    background-color: rgb(0, 0, 0);
     color: whitesmoke;
      text-align: center;
     padding: 50px;
@@ -34,7 +34,21 @@ body{
     padding: 30px;
     margin: 70px;
     border-radius: 20px;
-    border: 2px solid cyan;
+    border: 2px solid rgb(149, 210, 230);
+}
+
+#education-div{
+    background-color: rgb(203, 246, 231);
+}
+#skill-div{
+    background-color: lavender;
+}
+#project-div{
+    background-color: rgb(255, 244, 175);
+}
+
+#contact-div{
+    background-color: rgb(122, 168, 255);
 }
 
 .box{
